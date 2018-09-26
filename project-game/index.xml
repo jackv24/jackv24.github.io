@@ -1,23 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jack Vine - Game Programming on Jack Vine - Game Programming</title>
-    <link>http://jackv24.github.io/</link>
-    <description>Recent content in Jack Vine - Game Programming on Jack Vine - Game Programming</description>
+    <title>Project-games on Jack Vine - Game Programming</title>
+    <link>http://jackv24.github.io/project-game/</link>
+    <description>Recent content in Project-games on Jack Vine - Game Programming</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0930</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Sep 2017 22:08:26 +0930</lastBuildDate>
     
-    <item>
-      <title>Photoshop Scripts</title>
-      <link>http://jackv24.github.io/project-other/photoshop-scripts/</link>
-      <pubDate>Tue, 26 Sep 2017 22:57:39 +0930</pubDate>
-      
-      <guid>http://jackv24.github.io/project-other/photoshop-scripts/</guid>
-      <description></description>
-    </item>
+	<atom:link href="http://jackv24.github.io/project-game/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Dungeon Chop Chop</title>
@@ -25,15 +18,6 @@
       <pubDate>Tue, 26 Sep 2017 22:08:26 +0930</pubDate>
       
       <guid>http://jackv24.github.io/project-game/dungeon-chop-chop/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Custom OpenGL Graphics Engine in C&#43;&#43;</title>
-      <link>http://jackv24.github.io/project-other/opengl-engine/</link>
-      <pubDate>Sat, 26 Aug 2017 22:57:39 +0930</pubDate>
-      
-      <guid>http://jackv24.github.io/project-other/opengl-engine/</guid>
       <description></description>
     </item>
     
@@ -56,29 +40,11 @@
     </item>
     
     <item>
-      <title>Tilemap Editor</title>
-      <link>http://jackv24.github.io/project-other/tilemap-editor/</link>
-      <pubDate>Mon, 26 Sep 2016 22:57:39 +0930</pubDate>
-      
-      <guid>http://jackv24.github.io/project-other/tilemap-editor/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Space Dash</title>
       <link>http://jackv24.github.io/project-game/space-dash/</link>
       <pubDate>Mon, 26 Sep 2016 22:16:41 +0930</pubDate>
       
       <guid>http://jackv24.github.io/project-game/space-dash/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Importance - Pebble Watchface</title>
-      <link>http://jackv24.github.io/project-other/watch-face/</link>
-      <pubDate>Thu, 26 May 2016 22:57:39 +0930</pubDate>
-      
-      <guid>http://jackv24.github.io/project-other/watch-face/</guid>
       <description></description>
     </item>
     

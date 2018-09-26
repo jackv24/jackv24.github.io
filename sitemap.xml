@@ -4,7 +4,15 @@
     
     <url>
     
-      <loc>http://jackv24.github.io/project/dungeon-chop-chop/</loc>
+      <loc>http://jackv24.github.io/project-other/photoshop-scripts/</loc>
+      <lastmod>2017-09-26T22:57:39+09:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://jackv24.github.io/project-game/dungeon-chop-chop/</loc>
       <lastmod>2017-09-26T22:08:26+09:30</lastmod>
     </url>
     
@@ -12,7 +20,23 @@
     
     <url>
     
-      <loc>http://jackv24.github.io/project/alistairs-chest/</loc>
+      <loc>http://jackv24.github.io/project-other/opengl-engine/</loc>
+      <lastmod>2017-08-26T22:57:39+09:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://jackv24.github.io/project-game/network-pong/</loc>
+      <lastmod>2017-06-26T22:55:49+09:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://jackv24.github.io/project-game/alistairs-chest/</loc>
       <lastmod>2017-04-26T22:14:47+09:30</lastmod>
     </url>
     
@@ -20,8 +44,40 @@
     
     <url>
     
-      <loc>http://jackv24.github.io/project/space-dash/</loc>
+      <loc>http://jackv24.github.io/project-other/tilemap-editor/</loc>
+      <lastmod>2016-09-26T22:57:39+09:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://jackv24.github.io/project-game/space-dash/</loc>
       <lastmod>2016-09-26T22:16:41+09:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://jackv24.github.io/project-other/watch-face/</loc>
+      <lastmod>2016-05-26T22:57:39+09:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://jackv24.github.io/project-game/magic-battle-stadium/</loc>
+      <lastmod>2016-04-26T22:52:08+09:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://jackv24.github.io/project-game/cybernetic/</loc>
+      <lastmod>2015-09-26T22:54:23+09:30</lastmod>
     </url>
     
   
@@ -45,8 +101,17 @@
     
     <url>
     
-      <loc>http://jackv24.github.io/project/</loc>
+      <loc>http://jackv24.github.io/project-game/</loc>
       <lastmod>2017-09-26T22:08:26+09:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://jackv24.github.io/project-other/</loc>
+      <lastmod>2017-09-26T22:57:39+09:30</lastmod>
       <priority>0</priority>
     </url>
     
@@ -63,6 +128,24 @@
     <url>
     
       <loc>http://jackv24.github.io/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://jackv24.github.io/tags/game/</loc>
+      <lastmod>2017-09-26T22:08:26+09:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://jackv24.github.io/tags/other/</loc>
+      <lastmod>2017-09-26T22:57:39+09:30</lastmod>
       <priority>0</priority>
     </url>
     
