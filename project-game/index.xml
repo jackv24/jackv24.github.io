@@ -18,7 +18,11 @@
       <pubDate>Tue, 26 Sep 2017 22:08:26 +0930</pubDate>
       
       <guid>http://jackv24.github.io/project-game/dungeon-chop-chop/</guid>
-      <description></description>
+      <description>Download | View Source Code
+My Contributions Here are some of my contributions to this game:
+Level Generator This level generator is used to generate every level in the game, through the use of different profiles. It can generate an Overworld with different biomes, and Dungeons with a key and chest room.
+Source code for the Level Generator and run-time level managing can be found here.
+The Level Generator in action, generating the Overworld (slowed down - actual layout generation is much faster) User Interface Most of the user interface of the game was implemented myself, excluding the in-game HUD.</description>
     </item>
     
     <item>

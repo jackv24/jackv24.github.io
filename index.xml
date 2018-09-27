@@ -25,7 +25,302 @@
       <pubDate>Tue, 26 Sep 2017 22:08:26 +0930</pubDate>
       
       <guid>http://jackv24.github.io/project-game/dungeon-chop-chop/</guid>
-      <description></description>
+      <description>
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/qHSR8Jajxno&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/jackv24/DungeonChopChop/releases&#34; target=&#34;_blank&#34;&gt;Download&lt;/a&gt; | &lt;a href=&#34;https://github.com/jackv24/DungeonChopChop&#34; target=&#34;_blank&#34;&gt;View Source Code&lt;/a&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;my-contributions&#34;&gt;My Contributions&lt;/h1&gt;
+
+&lt;p&gt;Here are some of my contributions to this game:&lt;/p&gt;
+
+&lt;h2 id=&#34;level-generator&#34;&gt;Level Generator&lt;/h2&gt;
+
+&lt;p&gt;This level generator is used to generate every level in the game, through the use of different profiles. It can generate an Overworld with different biomes, and Dungeons with a key and chest room.&lt;/p&gt;
+
+&lt;p&gt;Source code for the Level Generator and run-time level managing &lt;a href=&#34;https://github.com/jackv24/DungeonChopChop/tree/master/Assets/Scripts/Level&#34; target=&#34;_blank&#34;&gt;can be found here.&lt;/a&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+
+&lt;img src=&#34;http://jackv24.github.io/img/dungeon-levelgen.gif&#34; width=&#34;50%&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;The Level Generator in action, generating the Overworld (slowed down - actual layout generation is much faster)&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+
+&lt;h2 id=&#34;user-interface&#34;&gt;User Interface&lt;/h2&gt;
+
+&lt;p&gt;Most of the user interface of the game was implemented myself, excluding the in-game HUD.&lt;/p&gt;
+
+&lt;p&gt;The map shows what tiles have been visited, and supports showing map icons and dynamically zooming and resizing at run-time.&lt;/p&gt;
+
+&lt;p&gt;There is also a fully functioning options menu that can be accessed in-game or from the main menu, and save&amp;rsquo;s preferences for next boot.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-UI&#34;  href=&#34;http://jackv24.github.io/img/dungeon-map.gif&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/dungeon-map.gif&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-UI&#34;  href=&#34;http://jackv24.github.io/img/dungeon-options.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/dungeon-options.png&#34;&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
+
+&lt;h2 id=&#34;visual-effects&#34;&gt;Visual Effects&lt;/h2&gt;
+
+&lt;p&gt;I was also responsible for writing all of the shaders we use throughout the game. This includes a foliage shader for rendering swaying grass and trees, a ground shader for tiling UVs based on world position, a spinning shader for quicksand, and a simple flashing shader for indicating character damage.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Effects&#34;  href=&#34;http://jackv24.github.io/img/dungeon-tree-sway.gif&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/dungeon-tree-sway.gif&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Effects&#34;  href=&#34;http://jackv24.github.io/img/dungeon-ground.gif&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/dungeon-ground.gif&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Effects&#34;  href=&#34;http://jackv24.github.io/img/dungeon-quicksand.gif&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/dungeon-quicksand.gif&#34;&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
+
+&lt;h1 id=&#34;editor-tools&#34;&gt;Editor Tools&lt;/h1&gt;
+
+&lt;p&gt;A number of editor tools were created to aid development. One of these was an enemy spawner editor, which allowed editing of multiple spawner profiles, and visualizing spawn points.&lt;/p&gt;
+
+&lt;figure&gt;
+
+&lt;img src=&#34;http://jackv24.github.io/img/dungeon-enemy-spawner.PNG&#34; /&gt;
+
+
+&lt;/figure&gt;
+
+&lt;h1 id=&#34;screenshots&#34;&gt;Screenshots&lt;/h1&gt;
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/dungeon-sc01.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/dungeon-sc01.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/dungeon-sc02.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/dungeon-sc02.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/dungeon-sc03.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/dungeon-sc03.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/dungeon-sc04.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/dungeon-sc04.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/dungeon-sc05.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/dungeon-sc05.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/dungeon-sc06.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/dungeon-sc06.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/dungeon-sc07.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/dungeon-sc07.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/dungeon-sc08.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/dungeon-sc08.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/dungeon-sc09.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/dungeon-sc09.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/dungeon-sc10.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/dungeon-sc10.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/dungeon-sc11.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/dungeon-sc11.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/dungeon-sc12.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/dungeon-sc12.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/dungeon-sc13.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/dungeon-sc13.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/dungeon-sc14.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/dungeon-sc14.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/dungeon-sc15.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/dungeon-sc15.png&#34;&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
