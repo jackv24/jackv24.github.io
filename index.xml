@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jack Vine - Game Programming on Jack Vine - Game Programming</title>
-    <link>http://jackv24.github.io/</link>
+    <link>http://jackvine.com/</link>
     <description>Recent content in Jack Vine - Game Programming on Jack Vine - Game Programming</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,10 +12,10 @@
     
     <item>
       <title>Photoshop Scripts</title>
-      <link>http://jackv24.github.io/project-other/photoshop-scripts/</link>
+      <link>http://jackvine.com/project-other/photoshop-scripts/</link>
       <pubDate>Tue, 26 Sep 2017 22:57:39 +0930</pubDate>
       
-      <guid>http://jackv24.github.io/project-other/photoshop-scripts/</guid>
+      <guid>http://jackvine.com/project-other/photoshop-scripts/</guid>
       <description>
 
 &lt;p&gt;Scripts I have written for Photoshop to aid development of my projects.&lt;/p&gt;
@@ -37,8 +37,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-anim-export&#34;  href=&#34;http://jackv24.github.io/img/anim-export-sc01.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/anim-export-sc01.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-anim-export&#34;  href=&#34;http://jackvine.com/img/anim-export-sc01.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/anim-export-sc01.png&#34;&gt;
   &lt;/a&gt;
   
   
@@ -48,8 +48,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-anim-export&#34;  href=&#34;http://jackv24.github.io/img/anim-export-sc02.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/anim-export-sc02.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-anim-export&#34;  href=&#34;http://jackvine.com/img/anim-export-sc02.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/anim-export-sc02.png&#34;&gt;
   &lt;/a&gt;
   
 &lt;/div&gt;
@@ -58,10 +58,10 @@
     
     <item>
       <title>Dungeon Chop Chop</title>
-      <link>http://jackv24.github.io/project-game/dungeon-chop-chop/</link>
+      <link>http://jackvine.com/project-game/dungeon-chop-chop/</link>
       <pubDate>Tue, 26 Sep 2017 22:08:26 +0930</pubDate>
       
-      <guid>http://jackv24.github.io/project-game/dungeon-chop-chop/</guid>
+      <guid>http://jackvine.com/project-game/dungeon-chop-chop/</guid>
       <description>
 
 
@@ -84,7 +84,7 @@
 
 &lt;figure&gt;
 
-&lt;img src=&#34;http://jackv24.github.io/img/dungeon-levelgen.gif&#34; width=&#34;50%&#34; /&gt;
+&lt;img src=&#34;http://jackvine.com/img/dungeon-levelgen.gif&#34; width=&#34;50%&#34; /&gt;
 
 
 
@@ -114,8 +114,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-UI&#34;  href=&#34;http://jackv24.github.io/img/dungeon-map.gif&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/dungeon-map.gif&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-UI&#34;  href=&#34;http://jackvine.com/img/dungeon-map.gif&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/dungeon-map.gif&#34;&gt;
   &lt;/a&gt;
   
   
@@ -125,8 +125,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-UI&#34;  href=&#34;http://jackv24.github.io/img/dungeon-options.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/dungeon-options.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-UI&#34;  href=&#34;http://jackvine.com/img/dungeon-options.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/dungeon-options.png&#34;&gt;
   &lt;/a&gt;
   
 &lt;/div&gt;
@@ -146,8 +146,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Effects&#34;  href=&#34;http://jackv24.github.io/img/dungeon-tree-sway.gif&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/dungeon-tree-sway.gif&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Effects&#34;  href=&#34;http://jackvine.com/img/dungeon-tree-sway.gif&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/dungeon-tree-sway.gif&#34;&gt;
   &lt;/a&gt;
   
   
@@ -157,8 +157,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Effects&#34;  href=&#34;http://jackv24.github.io/img/dungeon-ground.gif&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/dungeon-ground.gif&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Effects&#34;  href=&#34;http://jackvine.com/img/dungeon-ground.gif&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/dungeon-ground.gif&#34;&gt;
   &lt;/a&gt;
   
   
@@ -168,8 +168,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Effects&#34;  href=&#34;http://jackv24.github.io/img/dungeon-quicksand.gif&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/dungeon-quicksand.gif&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Effects&#34;  href=&#34;http://jackvine.com/img/dungeon-quicksand.gif&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/dungeon-quicksand.gif&#34;&gt;
   &lt;/a&gt;
   
 &lt;/div&gt;
@@ -180,7 +180,7 @@
 
 &lt;figure&gt;
 
-&lt;img src=&#34;http://jackv24.github.io/img/dungeon-enemy-spawner.PNG&#34; /&gt;
+&lt;img src=&#34;http://jackvine.com/img/dungeon-enemy-spawner.PNG&#34; /&gt;
 
 
 &lt;/figure&gt;
@@ -198,8 +198,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/dungeon-sc01.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/dungeon-sc01.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/dungeon-sc01.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/dungeon-sc01.png&#34;&gt;
   &lt;/a&gt;
   
   
@@ -209,8 +209,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/dungeon-sc02.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/dungeon-sc02.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/dungeon-sc02.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/dungeon-sc02.png&#34;&gt;
   &lt;/a&gt;
   
   
@@ -220,8 +220,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/dungeon-sc03.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/dungeon-sc03.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/dungeon-sc03.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/dungeon-sc03.png&#34;&gt;
   &lt;/a&gt;
   
   
@@ -231,8 +231,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/dungeon-sc04.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/dungeon-sc04.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/dungeon-sc04.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/dungeon-sc04.png&#34;&gt;
   &lt;/a&gt;
   
   
@@ -242,8 +242,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/dungeon-sc05.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/dungeon-sc05.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/dungeon-sc05.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/dungeon-sc05.png&#34;&gt;
   &lt;/a&gt;
   
   
@@ -253,8 +253,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/dungeon-sc06.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/dungeon-sc06.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/dungeon-sc06.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/dungeon-sc06.png&#34;&gt;
   &lt;/a&gt;
   
   
@@ -264,8 +264,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/dungeon-sc07.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/dungeon-sc07.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/dungeon-sc07.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/dungeon-sc07.png&#34;&gt;
   &lt;/a&gt;
   
   
@@ -275,8 +275,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/dungeon-sc08.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/dungeon-sc08.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/dungeon-sc08.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/dungeon-sc08.png&#34;&gt;
   &lt;/a&gt;
   
   
@@ -286,8 +286,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/dungeon-sc09.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/dungeon-sc09.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/dungeon-sc09.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/dungeon-sc09.png&#34;&gt;
   &lt;/a&gt;
   
   
@@ -297,8 +297,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/dungeon-sc10.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/dungeon-sc10.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/dungeon-sc10.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/dungeon-sc10.png&#34;&gt;
   &lt;/a&gt;
   
   
@@ -308,8 +308,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/dungeon-sc11.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/dungeon-sc11.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/dungeon-sc11.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/dungeon-sc11.png&#34;&gt;
   &lt;/a&gt;
   
   
@@ -319,8 +319,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/dungeon-sc12.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/dungeon-sc12.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/dungeon-sc12.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/dungeon-sc12.png&#34;&gt;
   &lt;/a&gt;
   
   
@@ -330,8 +330,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/dungeon-sc13.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/dungeon-sc13.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/dungeon-sc13.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/dungeon-sc13.png&#34;&gt;
   &lt;/a&gt;
   
   
@@ -341,8 +341,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/dungeon-sc14.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/dungeon-sc14.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/dungeon-sc14.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/dungeon-sc14.png&#34;&gt;
   &lt;/a&gt;
   
   
@@ -352,8 +352,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/dungeon-sc15.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/dungeon-sc15.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/dungeon-sc15.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/dungeon-sc15.png&#34;&gt;
   &lt;/a&gt;
   
 &lt;/div&gt;
@@ -362,17 +362,17 @@
     
     <item>
       <title>Custom OpenGL Graphics Engine in C&#43;&#43;</title>
-      <link>http://jackv24.github.io/project-other/opengl-engine/</link>
+      <link>http://jackvine.com/project-other/opengl-engine/</link>
       <pubDate>Sat, 26 Aug 2017 22:57:39 +0930</pubDate>
       
-      <guid>http://jackv24.github.io/project-other/opengl-engine/</guid>
+      <guid>http://jackvine.com/project-other/opengl-engine/</guid>
       <description>&lt;p&gt;A custom graphics engine written in C++ using OpenGL.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/jackv24/ComputerGraphicsAIE/releases/&#34; target=&#34;_blank&#34;&gt;Download Here&lt;/a&gt; | &lt;a href=&#34;https://github.com/jackv24/ComputerGraphicsAIE&#34; target=&#34;_blank&#34;&gt;View Source Code on GitHub&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;This custom graphics engine was written using C++ and OpenGL, utilising AIE&amp;rsquo;s Bootstrap, which includes a few extra things such as ImGui. The shaders shown below were written in GLSL.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://jackv24.github.io/img/opengl-gif.gif&#34; alt=&#34;Demonstration gif&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://jackvine.com/img/opengl-gif.gif&#34; alt=&#34;Demonstration gif&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This graphics engine supports static and animated models in OBJ and FBX format, though animations are only supported in FBX. Render targets are used to display the post-processing effects shown above.&lt;/p&gt;
 
@@ -387,8 +387,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/opengl-sc01.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/opengl-sc01.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/opengl-sc01.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/opengl-sc01.png&#34;&gt;
   &lt;/a&gt;
   
   
@@ -398,8 +398,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/opengl-sc02.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/opengl-sc02.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/opengl-sc02.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/opengl-sc02.png&#34;&gt;
   &lt;/a&gt;
   
 &lt;/div&gt;
@@ -408,10 +408,10 @@
     
     <item>
       <title>Networked Multiplayer Pong / Brick Break</title>
-      <link>http://jackv24.github.io/project-game/network-pong/</link>
+      <link>http://jackvine.com/project-game/network-pong/</link>
       <pubDate>Mon, 26 Jun 2017 22:55:49 +0930</pubDate>
       
-      <guid>http://jackv24.github.io/project-game/network-pong/</guid>
+      <guid>http://jackvine.com/project-game/network-pong/</guid>
       <description>&lt;p&gt;A networked multiplayer mashup of pong and brick break, using RakNet, OpenGL, and C++&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/jackv24/NetworkingAIE&#34; target=&#34;_blank&#34;&gt;View Source Code on GitHub&lt;/a&gt;&lt;/p&gt;
@@ -422,7 +422,7 @@
 
 &lt;figure&gt;
 
-&lt;img src=&#34;http://jackv24.github.io/img/pong.gif&#34; /&gt;
+&lt;img src=&#34;http://jackvine.com/img/pong.gif&#34; /&gt;
 
 
 
@@ -437,17 +437,17 @@
     
     <item>
       <title>Alistairs Chest</title>
-      <link>http://jackv24.github.io/project-game/alistairs-chest/</link>
+      <link>http://jackvine.com/project-game/alistairs-chest/</link>
       <pubDate>Wed, 26 Apr 2017 22:14:47 +0930</pubDate>
       
-      <guid>http://jackv24.github.io/project-game/alistairs-chest/</guid>
+      <guid>http://jackvine.com/project-game/alistairs-chest/</guid>
       <description>
 
 &lt;p&gt;A dark night and a brilliant flash leads a young boy into a strange and wondrous world. Armed with a huge bat and mysterious magic abilities, set out and unlock the marvels of Alistair&amp;rsquo;s Chest!&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://www.overgrowthstudio.com/&#34; target=&#34;_blank&#34;&gt;Currently in development!&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://jackv24.github.io/img/chest-title.png&#34; alt=&#34;Chest logo title&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://jackvine.com/img/chest-title.png&#34; alt=&#34;Chest logo title&#34; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&#34;screenshots&#34;&gt;Screenshots&lt;/h1&gt;
 
@@ -462,8 +462,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/chest-sc01.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/chest-sc01.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/chest-sc01.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/chest-sc01.png&#34;&gt;
   &lt;/a&gt;
   
   
@@ -473,8 +473,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/chest-sc02.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/chest-sc02.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/chest-sc02.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/chest-sc02.png&#34;&gt;
   &lt;/a&gt;
   
   
@@ -484,8 +484,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/chest-sc03.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/chest-sc03.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/chest-sc03.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/chest-sc03.png&#34;&gt;
   &lt;/a&gt;
   
   
@@ -495,8 +495,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/chest-sc04.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/chest-sc04.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/chest-sc04.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/chest-sc04.png&#34;&gt;
   &lt;/a&gt;
   
   
@@ -506,8 +506,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/chest-sc05.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/chest-sc05.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/chest-sc05.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/chest-sc05.png&#34;&gt;
   &lt;/a&gt;
   
   
@@ -517,8 +517,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/chest-sc06.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/chest-sc06.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/chest-sc06.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/chest-sc06.png&#34;&gt;
   &lt;/a&gt;
   
   
@@ -528,8 +528,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/chest-sc07.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/chest-sc07.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/chest-sc07.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/chest-sc07.png&#34;&gt;
   &lt;/a&gt;
   
   
@@ -539,8 +539,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/chest-sc08.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/chest-sc08.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/chest-sc08.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/chest-sc08.png&#34;&gt;
   &lt;/a&gt;
   
 &lt;/div&gt;
@@ -549,17 +549,17 @@
     
     <item>
       <title>Tilemap Editor</title>
-      <link>http://jackv24.github.io/project-other/tilemap-editor/</link>
+      <link>http://jackvine.com/project-other/tilemap-editor/</link>
       <pubDate>Mon, 26 Sep 2016 22:57:39 +0930</pubDate>
       
-      <guid>http://jackv24.github.io/project-other/tilemap-editor/</guid>
+      <guid>http://jackvine.com/project-other/tilemap-editor/</guid>
       <description>&lt;p&gt;A basic tile-map editor. Not intended to replace full-featured programs, but rather as useful practice for tools development (a school assignment).&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://github.com/jackv24/AIE-Assessment-5-C-Sharp/releases/&#34; target=&#34;_blank&#34;&gt;Download Here&lt;/a&gt; | &lt;a href=&#34;https://github.com/jackv24/AIE-Assessment-5-C-Sharp&#34; target=&#34;_blank&#34;&gt;Source Code is Available Here&lt;/a&gt;&lt;/p&gt;
 
 &lt;figure&gt;
 
-&lt;img src=&#34;http://jackv24.github.io/img/tilemap-main.png&#34; /&gt;
+&lt;img src=&#34;http://jackvine.com/img/tilemap-main.png&#34; /&gt;
 
 
 
@@ -574,10 +574,10 @@
     
     <item>
       <title>Space Dash</title>
-      <link>http://jackv24.github.io/project-game/space-dash/</link>
+      <link>http://jackvine.com/project-game/space-dash/</link>
       <pubDate>Mon, 26 Sep 2016 22:16:41 +0930</pubDate>
       
-      <guid>http://jackv24.github.io/project-game/space-dash/</guid>
+      <guid>http://jackvine.com/project-game/space-dash/</guid>
       <description>
 
 &lt;p&gt;Space Dash is a space-themed endless runner, where collecting oxygen is needed to stay alive. This game was created over a six week period, as a student project.&lt;/p&gt;
@@ -603,8 +603,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/space-dash-sc01.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/space-dash-sc01.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/space-dash-sc01.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/space-dash-sc01.png&#34;&gt;
   &lt;/a&gt;
   
   
@@ -614,8 +614,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/space-dash-sc02.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/space-dash-sc02.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/space-dash-sc02.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/space-dash-sc02.png&#34;&gt;
   &lt;/a&gt;
   
   
@@ -625,8 +625,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/space-dash-sc03.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/space-dash-sc03.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/space-dash-sc03.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/space-dash-sc03.png&#34;&gt;
   &lt;/a&gt;
   
   
@@ -636,8 +636,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/space-dash-sc04.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/space-dash-sc04.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/space-dash-sc04.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/space-dash-sc04.png&#34;&gt;
   &lt;/a&gt;
   
 &lt;/div&gt;
@@ -646,17 +646,17 @@
     
     <item>
       <title>Importance - Pebble Watchface</title>
-      <link>http://jackv24.github.io/project-other/watch-face/</link>
+      <link>http://jackvine.com/project-other/watch-face/</link>
       <pubDate>Thu, 26 May 2016 22:57:39 +0930</pubDate>
       
-      <guid>http://jackv24.github.io/project-other/watch-face/</guid>
+      <guid>http://jackvine.com/project-other/watch-face/</guid>
       <description>
 
 &lt;p&gt;Importance is a watchface that displays the most basic and important information in an easy to read manner. Includes time, date, battery bar and a Bluetooth disconnection indicator.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;https://apps.getpebble.com/en_US/application/56cea301fd7a6b2c8a000016?section=watchfaces&#34; target=&#34;_blank&#34;&gt;View Here&lt;/a&gt; | &lt;a href=&#34;https://github.com/jackv24/Importance-Pebble-Watchface&#34; target=&#34;_blank&#34;&gt;View Source Code in Github&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://jackv24.github.io/img/watch-face-title.png&#34; alt=&#34;Watch face title image&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://jackvine.com/img/watch-face-title.png&#34; alt=&#34;Watch face title image&#34; /&gt;&lt;/p&gt;
 
 &lt;h1 id=&#34;images&#34;&gt;Images&lt;/h1&gt;
 
@@ -671,8 +671,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/watch-face-img01.jpg&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/watch-face-img01.jpg&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/watch-face-img01.jpg&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/watch-face-img01.jpg&#34;&gt;
   &lt;/a&gt;
   
   
@@ -682,8 +682,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/watch-face-img02.jpg&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/watch-face-img02.jpg&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/watch-face-img02.jpg&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/watch-face-img02.jpg&#34;&gt;
   &lt;/a&gt;
   
 &lt;/div&gt;
@@ -692,10 +692,10 @@
     
     <item>
       <title>Magic Battle Stadium</title>
-      <link>http://jackv24.github.io/project-game/magic-battle-stadium/</link>
+      <link>http://jackvine.com/project-game/magic-battle-stadium/</link>
       <pubDate>Tue, 26 Apr 2016 22:52:08 +0930</pubDate>
       
-      <guid>http://jackv24.github.io/project-game/magic-battle-stadium/</guid>
+      <guid>http://jackvine.com/project-game/magic-battle-stadium/</guid>
       <description>
 
 &lt;p&gt;A free-for-all multiplayer wizard battle arena.&lt;/p&gt;
@@ -712,7 +712,7 @@
 
 &lt;h1 id=&#34;screenshots&#34;&gt;Screenshots&lt;/h1&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://jackv24.github.io/img/magic-battle.gif&#34; alt=&#34;Gameplay GIF&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://jackvine.com/img/magic-battle.gif&#34; alt=&#34;Gameplay GIF&#34; /&gt;&lt;/p&gt;
 
 
 
@@ -725,8 +725,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/magic-battle-sc01.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/magic-battle-sc01.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/magic-battle-sc01.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/magic-battle-sc01.png&#34;&gt;
   &lt;/a&gt;
   
   
@@ -736,8 +736,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/magic-battle-sc02.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/magic-battle-sc02.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/magic-battle-sc02.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/magic-battle-sc02.png&#34;&gt;
   &lt;/a&gt;
   
   
@@ -747,8 +747,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/magic-battle-sc03.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/magic-battle-sc03.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/magic-battle-sc03.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/magic-battle-sc03.png&#34;&gt;
   &lt;/a&gt;
   
   
@@ -758,8 +758,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/magic-battle-sc04.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/magic-battle-sc04.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/magic-battle-sc04.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/magic-battle-sc04.png&#34;&gt;
   &lt;/a&gt;
   
 &lt;/div&gt;
@@ -768,10 +768,10 @@
     
     <item>
       <title>Cybernetic</title>
-      <link>http://jackv24.github.io/project-game/cybernetic/</link>
+      <link>http://jackvine.com/project-game/cybernetic/</link>
       <pubDate>Sat, 26 Sep 2015 22:54:23 +0930</pubDate>
       
-      <guid>http://jackv24.github.io/project-game/cybernetic/</guid>
+      <guid>http://jackvine.com/project-game/cybernetic/</guid>
       <description>
 
 &lt;p&gt;A randomly generated, 3D tower defence game.&lt;/p&gt;
@@ -797,8 +797,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/cybernetic-sc01.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/cybernetic-sc01.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/cybernetic-sc01.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/cybernetic-sc01.png&#34;&gt;
   &lt;/a&gt;
   
   
@@ -808,8 +808,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/cybernetic-sc02.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/cybernetic-sc02.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/cybernetic-sc02.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/cybernetic-sc02.png&#34;&gt;
   &lt;/a&gt;
   
   
@@ -819,8 +819,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/cybernetic-sc03.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/cybernetic-sc03.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/cybernetic-sc03.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/cybernetic-sc03.png&#34;&gt;
   &lt;/a&gt;
   
   
@@ -830,8 +830,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/cybernetic-sc04.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/cybernetic-sc04.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/cybernetic-sc04.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/cybernetic-sc04.png&#34;&gt;
   &lt;/a&gt;
   
   
@@ -841,8 +841,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/cybernetic-sc05.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/cybernetic-sc05.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/cybernetic-sc05.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/cybernetic-sc05.png&#34;&gt;
   &lt;/a&gt;
   
   
@@ -852,8 +852,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/cybernetic-sc06.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/cybernetic-sc06.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/cybernetic-sc06.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/cybernetic-sc06.png&#34;&gt;
   &lt;/a&gt;
   
   
@@ -863,8 +863,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/cybernetic-sc07.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/cybernetic-sc07.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/cybernetic-sc07.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/cybernetic-sc07.png&#34;&gt;
   &lt;/a&gt;
   
   
@@ -874,8 +874,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/cybernetic-sc08.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/cybernetic-sc08.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/cybernetic-sc08.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/cybernetic-sc08.png&#34;&gt;
   &lt;/a&gt;
   
   
@@ -885,8 +885,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/cybernetic-sc09.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/cybernetic-sc09.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/cybernetic-sc09.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/cybernetic-sc09.png&#34;&gt;
   &lt;/a&gt;
   
   
@@ -896,8 +896,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/cybernetic-sc10.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/cybernetic-sc10.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/cybernetic-sc10.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/cybernetic-sc10.png&#34;&gt;
   &lt;/a&gt;
   
   
@@ -907,8 +907,8 @@
       
     
   
-  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/cybernetic-sc11.png&#34;&gt;
-    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/cybernetic-sc11.png&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackvine.com/img/cybernetic-sc11.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackvine.com/img/cybernetic-sc11.png&#34;&gt;
   &lt;/a&gt;
   
 &lt;/div&gt;

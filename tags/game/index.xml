@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>game on Jack Vine - Game Programming</title>
-    <link>http://jackv24.github.io/tags/game/</link>
+    <link>http://jackvine.com/tags/game/</link>
     <description>Recent content in game on Jack Vine - Game Programming</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Tue, 26 Sep 2017 22:08:26 +0930</lastBuildDate>
     
-	<atom:link href="http://jackv24.github.io/tags/game/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jackvine.com/tags/game/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Dungeon Chop Chop</title>
-      <link>http://jackv24.github.io/project-game/dungeon-chop-chop/</link>
+      <link>http://jackvine.com/project-game/dungeon-chop-chop/</link>
       <pubDate>Tue, 26 Sep 2017 22:08:26 +0930</pubDate>
       
-      <guid>http://jackv24.github.io/project-game/dungeon-chop-chop/</guid>
+      <guid>http://jackvine.com/project-game/dungeon-chop-chop/</guid>
       <description>Download | View Source Code
 My Contributions Here are some of my contributions to this game:
 Level Generator This level generator is used to generate every level in the game, through the use of different profiles. It can generate an Overworld with different biomes, and Dungeons with a key and chest room.
@@ -27,10 +27,10 @@ Source code for the Level Generator and run-time level managing can be found her
     
     <item>
       <title>Networked Multiplayer Pong / Brick Break</title>
-      <link>http://jackv24.github.io/project-game/network-pong/</link>
+      <link>http://jackvine.com/project-game/network-pong/</link>
       <pubDate>Mon, 26 Jun 2017 22:55:49 +0930</pubDate>
       
-      <guid>http://jackv24.github.io/project-game/network-pong/</guid>
+      <guid>http://jackvine.com/project-game/network-pong/</guid>
       <description>A networked multiplayer mashup of pong and brick break, using RakNet, OpenGL, and C++
 View Source Code on GitHub
 This game runs with two clients connected to a server. The server is authoritative, and the clients implement dead-reckoning by only sending data when important events occur, such as a ball bouncing, a block breaking, etc. The game is simulated on the clients and server for smooth gameplay, but the only data the clients themselves can send is key presses.</description>
@@ -38,10 +38,10 @@ This game runs with two clients connected to a server. The server is authoritati
     
     <item>
       <title>Alistairs Chest</title>
-      <link>http://jackv24.github.io/project-game/alistairs-chest/</link>
+      <link>http://jackvine.com/project-game/alistairs-chest/</link>
       <pubDate>Wed, 26 Apr 2017 22:14:47 +0930</pubDate>
       
-      <guid>http://jackv24.github.io/project-game/alistairs-chest/</guid>
+      <guid>http://jackvine.com/project-game/alistairs-chest/</guid>
       <description> A dark night and a brilliant flash leads a young boy into a strange and wondrous world. Armed with a huge bat and mysterious magic abilities, set out and unlock the marvels of Alistair&amp;rsquo;s Chest!
 Currently in development!
 Screenshots  </description>
@@ -49,10 +49,10 @@ Screenshots  </description>
     
     <item>
       <title>Space Dash</title>
-      <link>http://jackv24.github.io/project-game/space-dash/</link>
+      <link>http://jackvine.com/project-game/space-dash/</link>
       <pubDate>Mon, 26 Sep 2016 22:16:41 +0930</pubDate>
       
-      <guid>http://jackv24.github.io/project-game/space-dash/</guid>
+      <guid>http://jackvine.com/project-game/space-dash/</guid>
       <description> Space Dash is a space-themed endless runner, where collecting oxygen is needed to stay alive. This game was created over a six week period, as a student project.
 View or Download on Itch.io | Get it on Google Play | View Source Code on Github
   Screenshots  </description>
@@ -60,10 +60,10 @@ View or Download on Itch.io | Get it on Google Play | View Source Code on Github
     
     <item>
       <title>Magic Battle Stadium</title>
-      <link>http://jackv24.github.io/project-game/magic-battle-stadium/</link>
+      <link>http://jackvine.com/project-game/magic-battle-stadium/</link>
       <pubDate>Tue, 26 Apr 2016 22:52:08 +0930</pubDate>
       
-      <guid>http://jackv24.github.io/project-game/magic-battle-stadium/</guid>
+      <guid>http://jackvine.com/project-game/magic-battle-stadium/</guid>
       <description> A free-for-all multiplayer wizard battle arena.
 Download on Itch.io | View Source Code on Github
 There are many characters, classes and attacks to choose from. Matches are timed, and players are ranked by amount of kills vs amount of deaths.
@@ -72,10 +72,10 @@ There are many characters, classes and attacks to choose from. Matches are timed
     
     <item>
       <title>Cybernetic</title>
-      <link>http://jackv24.github.io/project-game/cybernetic/</link>
+      <link>http://jackvine.com/project-game/cybernetic/</link>
       <pubDate>Sat, 26 Sep 2015 22:54:23 +0930</pubDate>
       
-      <guid>http://jackv24.github.io/project-game/cybernetic/</guid>
+      <guid>http://jackvine.com/project-game/cybernetic/</guid>
       <description> A randomly generated, 3D tower defence game.
 View or Download on Itch.io | View Source Code on Github
   Screenshots  </description>

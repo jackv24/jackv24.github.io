@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Project-others on Jack Vine - Game Programming</title>
-    <link>http://jackv24.github.io/project-other/</link>
+    <link>http://jackvine.com/project-other/</link>
     <description>Recent content in Project-others on Jack Vine - Game Programming</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Tue, 26 Sep 2017 22:57:39 +0930</lastBuildDate>
     
-	<atom:link href="http://jackv24.github.io/project-other/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://jackvine.com/project-other/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Photoshop Scripts</title>
-      <link>http://jackv24.github.io/project-other/photoshop-scripts/</link>
+      <link>http://jackvine.com/project-other/photoshop-scripts/</link>
       <pubDate>Tue, 26 Sep 2017 22:57:39 +0930</pubDate>
       
-      <guid>http://jackv24.github.io/project-other/photoshop-scripts/</guid>
+      <guid>http://jackvine.com/project-other/photoshop-scripts/</guid>
       <description> Scripts I have written for Photoshop to aid development of my projects.
 Animation Exporter A script for exporting frames from multiple animations contained within one document, created as a tool to aid development of Alistair&amp;rsquo;s Chest.
 Download &amp;amp; Instructions on GitHub
@@ -26,10 +26,10 @@ Download &amp;amp; Instructions on GitHub
     
     <item>
       <title>Custom OpenGL Graphics Engine in C&#43;&#43;</title>
-      <link>http://jackv24.github.io/project-other/opengl-engine/</link>
+      <link>http://jackvine.com/project-other/opengl-engine/</link>
       <pubDate>Sat, 26 Aug 2017 22:57:39 +0930</pubDate>
       
-      <guid>http://jackv24.github.io/project-other/opengl-engine/</guid>
+      <guid>http://jackvine.com/project-other/opengl-engine/</guid>
       <description>A custom graphics engine written in C++ using OpenGL.
 Download Here | View Source Code on GitHub
 This custom graphics engine was written using C++ and OpenGL, utilising AIE&amp;rsquo;s Bootstrap, which includes a few extra things such as ImGui. The shaders shown below were written in GLSL.
@@ -38,10 +38,10 @@ This graphics engine supports static and animated models in OBJ and FBX format, 
     
     <item>
       <title>Tilemap Editor</title>
-      <link>http://jackv24.github.io/project-other/tilemap-editor/</link>
+      <link>http://jackvine.com/project-other/tilemap-editor/</link>
       <pubDate>Mon, 26 Sep 2016 22:57:39 +0930</pubDate>
       
-      <guid>http://jackv24.github.io/project-other/tilemap-editor/</guid>
+      <guid>http://jackvine.com/project-other/tilemap-editor/</guid>
       <description>A basic tile-map editor. Not intended to replace full-featured programs, but rather as useful practice for tools development (a school assignment).
 Download Here | Source Code is Available Here
 A screenshot of the working application. The tile map featured here is not my own, and was sourced from opengameart.org </description>
@@ -49,10 +49,10 @@ Download Here | Source Code is Available Here
     
     <item>
       <title>Importance - Pebble Watchface</title>
-      <link>http://jackv24.github.io/project-other/watch-face/</link>
+      <link>http://jackvine.com/project-other/watch-face/</link>
       <pubDate>Thu, 26 May 2016 22:57:39 +0930</pubDate>
       
-      <guid>http://jackv24.github.io/project-other/watch-face/</guid>
+      <guid>http://jackvine.com/project-other/watch-face/</guid>
       <description> Importance is a watchface that displays the most basic and important information in an easy to read manner. Includes time, date, battery bar and a Bluetooth disconnection indicator.
 View Here | View Source Code in Github
 Images  </description>
