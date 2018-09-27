@@ -31,7 +31,9 @@ Source code for the Level Generator and run-time level managing can be found her
       <pubDate>Mon, 26 Jun 2017 22:55:49 +0930</pubDate>
       
       <guid>http://jackv24.github.io/project-game/network-pong/</guid>
-      <description></description>
+      <description>A networked multiplayer mashup of pong and brick break, using RakNet, OpenGL, and C++
+View Source Code on GitHub
+This game runs with two clients connected to a server. The server is authoritative, and the clients implement dead-reckoning by only sending data when important events occur, such as a ball bouncing, a block breaking, etc. The game is simulated on the clients and server for smooth gameplay, but the only data the clients themselves can send is key presses.</description>
     </item>
     
     <item>
@@ -40,7 +42,9 @@ Source code for the Level Generator and run-time level managing can be found her
       <pubDate>Wed, 26 Apr 2017 22:14:47 +0930</pubDate>
       
       <guid>http://jackv24.github.io/project-game/alistairs-chest/</guid>
-      <description></description>
+      <description> A dark night and a brilliant flash leads a young boy into a strange and wondrous world. Armed with a huge bat and mysterious magic abilities, set out and unlock the marvels of Alistair&amp;rsquo;s Chest!
+Currently in development!
+Screenshots  </description>
     </item>
     
     <item>
@@ -49,7 +53,9 @@ Source code for the Level Generator and run-time level managing can be found her
       <pubDate>Mon, 26 Sep 2016 22:16:41 +0930</pubDate>
       
       <guid>http://jackv24.github.io/project-game/space-dash/</guid>
-      <description></description>
+      <description> Space Dash is a space-themed endless runner, where collecting oxygen is needed to stay alive. This game was created over a six week period, as a student project.
+View or Download on Itch.io | Get it on Google Play | View Source Code on Github
+  Screenshots  </description>
     </item>
     
     <item>
@@ -58,7 +64,10 @@ Source code for the Level Generator and run-time level managing can be found her
       <pubDate>Tue, 26 Apr 2016 22:52:08 +0930</pubDate>
       
       <guid>http://jackv24.github.io/project-game/magic-battle-stadium/</guid>
-      <description></description>
+      <description> A free-for-all multiplayer wizard battle arena.
+Download on Itch.io | View Source Code on Github
+There are many characters, classes and attacks to choose from. Matches are timed, and players are ranked by amount of kills vs amount of deaths.
+  Screenshots  </description>
     </item>
     
     <item>
@@ -67,7 +76,9 @@ Source code for the Level Generator and run-time level managing can be found her
       <pubDate>Sat, 26 Sep 2015 22:54:23 +0930</pubDate>
       
       <guid>http://jackv24.github.io/project-game/cybernetic/</guid>
-      <description></description>
+      <description> A randomly generated, 3D tower defence game.
+View or Download on Itch.io | View Source Code on Github
+  Screenshots  </description>
     </item>
     
   </channel>

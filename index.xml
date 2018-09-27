@@ -16,7 +16,44 @@
       <pubDate>Tue, 26 Sep 2017 22:57:39 +0930</pubDate>
       
       <guid>http://jackv24.github.io/project-other/photoshop-scripts/</guid>
-      <description></description>
+      <description>
+
+&lt;p&gt;Scripts I have written for Photoshop to aid development of my projects.&lt;/p&gt;
+
+&lt;h2 id=&#34;animation-exporter&#34;&gt;Animation Exporter&lt;/h2&gt;
+
+&lt;p&gt;A script for exporting frames from multiple animations contained within one document, created as a tool to aid development of &lt;a href=&#34;http://www.overgrowthstudio.com/&#34; target=&#34;_blank&#34;&gt;Alistair&amp;rsquo;s Chest&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/jackv24/PhotoshopAnimationExporter&#34; target=&#34;_blank&#34;&gt;Download &amp;amp; Instructions on GitHub&lt;/a&gt;&lt;/p&gt;
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-anim-export&#34;  href=&#34;http://jackv24.github.io/img/anim-export-sc01.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/anim-export-sc01.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-anim-export&#34;  href=&#34;http://jackv24.github.io/img/anim-export-sc02.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/anim-export-sc02.png&#34;&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
@@ -329,7 +366,44 @@
       <pubDate>Sat, 26 Aug 2017 22:57:39 +0930</pubDate>
       
       <guid>http://jackv24.github.io/project-other/opengl-engine/</guid>
-      <description></description>
+      <description>&lt;p&gt;A custom graphics engine written in C++ using OpenGL.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/jackv24/ComputerGraphicsAIE/releases/&#34; target=&#34;_blank&#34;&gt;Download Here&lt;/a&gt; | &lt;a href=&#34;https://github.com/jackv24/ComputerGraphicsAIE&#34; target=&#34;_blank&#34;&gt;View Source Code on GitHub&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This custom graphics engine was written using C++ and OpenGL, utilising AIE&amp;rsquo;s Bootstrap, which includes a few extra things such as ImGui. The shaders shown below were written in GLSL.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://jackv24.github.io/img/opengl-gif.gif&#34; alt=&#34;Demonstration gif&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This graphics engine supports static and animated models in OBJ and FBX format, though animations are only supported in FBX. Render targets are used to display the post-processing effects shown above.&lt;/p&gt;
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/opengl-sc01.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/opengl-sc01.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/opengl-sc02.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/opengl-sc02.png&#34;&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
@@ -338,7 +412,27 @@
       <pubDate>Mon, 26 Jun 2017 22:55:49 +0930</pubDate>
       
       <guid>http://jackv24.github.io/project-game/network-pong/</guid>
-      <description></description>
+      <description>&lt;p&gt;A networked multiplayer mashup of pong and brick break, using RakNet, OpenGL, and C++&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/jackv24/NetworkingAIE&#34; target=&#34;_blank&#34;&gt;View Source Code on GitHub&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;This game runs with two clients connected to a server. The server is authoritative, and the clients implement dead-reckoning by only sending data when important events occur, such as a ball bouncing, a block breaking, etc. The game is simulated on the clients and server for smooth gameplay, but the only data the clients themselves can send is key presses.&lt;/p&gt;
+
+&lt;p&gt;Data is only sent when these events happen, making efficient use of bandwidth, and gameplay is accurately synced across clients.&lt;/p&gt;
+
+&lt;figure&gt;
+
+&lt;img src=&#34;http://jackv24.github.io/img/pong.gif&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;One of two clients running the game. Setup is one server, two clients.&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+</description>
     </item>
     
     <item>
@@ -347,7 +441,110 @@
       <pubDate>Wed, 26 Apr 2017 22:14:47 +0930</pubDate>
       
       <guid>http://jackv24.github.io/project-game/alistairs-chest/</guid>
-      <description></description>
+      <description>
+
+&lt;p&gt;A dark night and a brilliant flash leads a young boy into a strange and wondrous world. Armed with a huge bat and mysterious magic abilities, set out and unlock the marvels of Alistair&amp;rsquo;s Chest!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.overgrowthstudio.com/&#34; target=&#34;_blank&#34;&gt;Currently in development!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://jackv24.github.io/img/chest-title.png&#34; alt=&#34;Chest logo title&#34; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;screenshots&#34;&gt;Screenshots&lt;/h1&gt;
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/chest-sc01.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/chest-sc01.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/chest-sc02.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/chest-sc02.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/chest-sc03.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/chest-sc03.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/chest-sc04.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/chest-sc04.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/chest-sc05.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/chest-sc05.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/chest-sc06.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/chest-sc06.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/chest-sc07.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/chest-sc07.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/chest-sc08.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/chest-sc08.png&#34;&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
@@ -356,7 +553,23 @@
       <pubDate>Mon, 26 Sep 2016 22:57:39 +0930</pubDate>
       
       <guid>http://jackv24.github.io/project-other/tilemap-editor/</guid>
-      <description></description>
+      <description>&lt;p&gt;A basic tile-map editor. Not intended to replace full-featured programs, but rather as useful practice for tools development (a school assignment).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/jackv24/AIE-Assessment-5-C-Sharp/releases/&#34; target=&#34;_blank&#34;&gt;Download Here&lt;/a&gt; | &lt;a href=&#34;https://github.com/jackv24/AIE-Assessment-5-C-Sharp&#34; target=&#34;_blank&#34;&gt;Source Code is Available Here&lt;/a&gt;&lt;/p&gt;
+
+&lt;figure&gt;
+
+&lt;img src=&#34;http://jackv24.github.io/img/tilemap-main.png&#34; /&gt;
+
+
+
+&lt;figcaption data-pre=&#34;Figure &#34; data-post=&#34;:&#34; &gt;
+  &lt;h4&gt;A screenshot of the working application. The tile map featured here is not my own, and was sourced from opengameart.org&lt;/h4&gt;
+  
+&lt;/figcaption&gt;
+
+&lt;/figure&gt;
+</description>
     </item>
     
     <item>
@@ -365,7 +578,70 @@
       <pubDate>Mon, 26 Sep 2016 22:16:41 +0930</pubDate>
       
       <guid>http://jackv24.github.io/project-game/space-dash/</guid>
-      <description></description>
+      <description>
+
+&lt;p&gt;Space Dash is a space-themed endless runner, where collecting oxygen is needed to stay alive. This game was created over a six week period, as a student project.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://jackv24.itch.io/space-dash?secret=9K2kj0oJM5BtWHg90k0LmtIxEtY&#34; target=&#34;_blank&#34;&gt;View or Download on Itch.io&lt;/a&gt; | &lt;a href=&#34;https://play.google.com/store/apps/details?id=com.t2.spacedash&#34; target=&#34;_blank&#34;&gt;Get it on Google Play&lt;/a&gt; | &lt;a href=&#34;https://github.com/jackv24/Space-Dash&#34; target=&#34;_blank&#34;&gt;View Source Code on Github&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/Rp3QZlUwmO0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;h1 id=&#34;screenshots&#34;&gt;Screenshots&lt;/h1&gt;
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/space-dash-sc01.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/space-dash-sc01.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/space-dash-sc02.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/space-dash-sc02.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/space-dash-sc03.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/space-dash-sc03.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/space-dash-sc04.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/space-dash-sc04.png&#34;&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
@@ -374,7 +650,44 @@
       <pubDate>Thu, 26 May 2016 22:57:39 +0930</pubDate>
       
       <guid>http://jackv24.github.io/project-other/watch-face/</guid>
-      <description></description>
+      <description>
+
+&lt;p&gt;Importance is a watchface that displays the most basic and important information in an easy to read manner. Includes time, date, battery bar and a Bluetooth disconnection indicator.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://apps.getpebble.com/en_US/application/56cea301fd7a6b2c8a000016?section=watchfaces&#34; target=&#34;_blank&#34;&gt;View Here&lt;/a&gt; | &lt;a href=&#34;https://github.com/jackv24/Importance-Pebble-Watchface&#34; target=&#34;_blank&#34;&gt;View Source Code in Github&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://jackv24.github.io/img/watch-face-title.png&#34; alt=&#34;Watch face title image&#34; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&#34;images&#34;&gt;Images&lt;/h1&gt;
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/watch-face-img01.jpg&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/watch-face-img01.jpg&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/watch-face-img02.jpg&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/watch-face-img02.jpg&#34;&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
@@ -383,7 +696,74 @@
       <pubDate>Tue, 26 Apr 2016 22:52:08 +0930</pubDate>
       
       <guid>http://jackv24.github.io/project-game/magic-battle-stadium/</guid>
-      <description></description>
+      <description>
+
+&lt;p&gt;A free-for-all multiplayer wizard battle arena.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://jackv24.itch.io/magic-battle-stadium&#34; target=&#34;_blank&#34;&gt;Download on Itch.io&lt;/a&gt; | &lt;a href=&#34;https://github.com/jackv24/Magic-Battle-Stadium&#34; target=&#34;_blank&#34;&gt;View Source Code on Github&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;There are many characters, classes and attacks to choose from. Matches are timed, and players are ranked by amount of kills vs amount of deaths.&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/-jLG44vhrcw&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;h1 id=&#34;screenshots&#34;&gt;Screenshots&lt;/h1&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://jackv24.github.io/img/magic-battle.gif&#34; alt=&#34;Gameplay GIF&#34; /&gt;&lt;/p&gt;
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/magic-battle-sc01.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/magic-battle-sc01.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/magic-battle-sc02.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/magic-battle-sc02.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/magic-battle-sc03.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/magic-battle-sc03.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/magic-battle-sc04.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/magic-battle-sc04.png&#34;&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
+</description>
     </item>
     
     <item>
@@ -392,7 +772,147 @@
       <pubDate>Sat, 26 Sep 2015 22:54:23 +0930</pubDate>
       
       <guid>http://jackv24.github.io/project-game/cybernetic/</guid>
-      <description></description>
+      <description>
+
+&lt;p&gt;A randomly generated, 3D tower defence game.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://jackv24.itch.io/cybernetic&#34; target=&#34;_blank&#34;&gt;View or Download on Itch.io&lt;/a&gt; | &lt;a href=&#34;https://github.com/jackv24/Cybernetic&#34; target=&#34;_blank&#34;&gt;View Source Code on Github&lt;/a&gt;&lt;/p&gt;
+
+
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/Z28oTw43Tvg&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; allowfullscreen title=&#34;YouTube Video&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+
+&lt;h1 id=&#34;screenshots&#34;&gt;Screenshots&lt;/h1&gt;
+
+
+
+&lt;div class=&#34;gallery&#34;&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/cybernetic-sc01.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/cybernetic-sc01.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/cybernetic-sc02.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/cybernetic-sc02.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/cybernetic-sc03.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/cybernetic-sc03.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/cybernetic-sc04.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/cybernetic-sc04.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/cybernetic-sc05.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/cybernetic-sc05.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/cybernetic-sc06.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/cybernetic-sc06.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/cybernetic-sc07.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/cybernetic-sc07.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/cybernetic-sc08.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/cybernetic-sc08.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/cybernetic-sc09.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/cybernetic-sc09.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/cybernetic-sc10.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/cybernetic-sc10.png&#34;&gt;
+  &lt;/a&gt;
+  
+  
+  
+  
+    
+      
+    
+  
+  &lt;a data-fancybox=&#34;gallery-Screenshots&#34;  href=&#34;http://jackv24.github.io/img/cybernetic-sc11.png&#34;&gt;
+    &lt;img alt=&#34;&#34; src=&#34;http://jackv24.github.io/img/cybernetic-sc11.png&#34;&gt;
+  &lt;/a&gt;
+  
+&lt;/div&gt;
+</description>
     </item>
     
   </channel>

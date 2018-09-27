@@ -18,7 +18,10 @@
       <pubDate>Tue, 26 Sep 2017 22:57:39 +0930</pubDate>
       
       <guid>http://jackv24.github.io/project-other/photoshop-scripts/</guid>
-      <description></description>
+      <description> Scripts I have written for Photoshop to aid development of my projects.
+Animation Exporter A script for exporting frames from multiple animations contained within one document, created as a tool to aid development of Alistair&amp;rsquo;s Chest.
+Download &amp;amp; Instructions on GitHub
+ </description>
     </item>
     
     <item>
@@ -27,7 +30,10 @@
       <pubDate>Sat, 26 Aug 2017 22:57:39 +0930</pubDate>
       
       <guid>http://jackv24.github.io/project-other/opengl-engine/</guid>
-      <description></description>
+      <description>A custom graphics engine written in C++ using OpenGL.
+Download Here | View Source Code on GitHub
+This custom graphics engine was written using C++ and OpenGL, utilising AIE&amp;rsquo;s Bootstrap, which includes a few extra things such as ImGui. The shaders shown below were written in GLSL.
+This graphics engine supports static and animated models in OBJ and FBX format, though animations are only supported in FBX. Render targets are used to display the post-processing effects shown above.</description>
     </item>
     
     <item>
@@ -36,7 +42,9 @@
       <pubDate>Mon, 26 Sep 2016 22:57:39 +0930</pubDate>
       
       <guid>http://jackv24.github.io/project-other/tilemap-editor/</guid>
-      <description></description>
+      <description>A basic tile-map editor. Not intended to replace full-featured programs, but rather as useful practice for tools development (a school assignment).
+Download Here | Source Code is Available Here
+A screenshot of the working application. The tile map featured here is not my own, and was sourced from opengameart.org </description>
     </item>
     
     <item>
@@ -45,7 +53,9 @@
       <pubDate>Thu, 26 May 2016 22:57:39 +0930</pubDate>
       
       <guid>http://jackv24.github.io/project-other/watch-face/</guid>
-      <description></description>
+      <description> Importance is a watchface that displays the most basic and important information in an easy to read manner. Includes time, date, battery bar and a Bluetooth disconnection indicator.
+View Here | View Source Code in Github
+Images  </description>
     </item>
     
   </channel>
