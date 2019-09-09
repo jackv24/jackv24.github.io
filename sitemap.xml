@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>http://jackvine.com/project-other/palette-converter/</loc>
+      <lastmod>2019-09-09T21:02:39+09:30</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>http://jackvine.com/project-other/photoshop-scripts/</loc>
       <lastmod>2018-09-27T20:48:21+09:30</lastmod>
     </url>
@@ -92,8 +100,26 @@
     
     <url>
     
+      <loc>http://jackvine.com/tags/game/</loc>
+      <lastmod>2018-09-27T09:51:27+09:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>http://jackvine.com/</loc>
       <lastmod>2018-09-28T22:04:01+09:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>http://jackvine.com/tags/other/</loc>
+      <lastmod>2019-09-09T21:02:39+09:30</lastmod>
       <priority>0</priority>
     </url>
     
@@ -111,7 +137,7 @@
     <url>
     
       <loc>http://jackvine.com/project-other/</loc>
-      <lastmod>2018-09-27T20:48:21+09:30</lastmod>
+      <lastmod>2019-09-09T21:02:39+09:30</lastmod>
       <priority>0</priority>
     </url>
     
@@ -128,24 +154,7 @@
     <url>
     
       <loc>http://jackvine.com/tags/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://jackvine.com/tags/game/</loc>
       <lastmod>2018-09-27T09:51:27+09:30</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>http://jackvine.com/tags/other/</loc>
-      <lastmod>2018-09-27T20:48:21+09:30</lastmod>
       <priority>0</priority>
     </url>
     

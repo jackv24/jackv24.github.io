@@ -15,10 +15,10 @@
   
     
   
-  <meta name="description" content="A basic tile-map editor. Not intended to replace full-featured programs, but rather as useful practice for tools development (a school assignment).">
+  <meta name="description" content="Simple tool to convert images to a version encoded with generated LUT info, for use in palette swap shaders, etc.">
 
   
-  <link rel="alternate" hreflang="en-us" href="http://jackvine.com/project-other/tilemap-editor/">
+  <link rel="alternate" hreflang="en-us" href="http://jackvine.com/project-other/palette-converter/">
 
   
 
@@ -84,7 +84,7 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="http://jackvine.com/project-other/tilemap-editor/">
+  <link rel="canonical" href="http://jackvine.com/project-other/palette-converter/">
 
   <meta property="twitter:card" content="summary_large_image">
   
@@ -92,21 +92,21 @@
   <meta property="twitter:creator" content="@Jackv24v">
   
   <meta property="og:site_name" content="Jack Vine - Game Programming">
-  <meta property="og:url" content="http://jackvine.com/project-other/tilemap-editor/">
-  <meta property="og:title" content="Tilemap Editor | Jack Vine - Game Programming">
-  <meta property="og:description" content="A basic tile-map editor. Not intended to replace full-featured programs, but rather as useful practice for tools development (a school assignment).">
+  <meta property="og:url" content="http://jackvine.com/project-other/palette-converter/">
+  <meta property="og:title" content="Palette Converter | Jack Vine - Game Programming">
+  <meta property="og:description" content="Simple tool to convert images to a version encoded with generated LUT info, for use in palette swap shaders, etc.">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2016-09-26T22:57:39&#43;09:30">
+  <meta property="article:published_time" content="2019-09-09T21:02:39&#43;09:30">
   
-  <meta property="article:modified_time" content="2018-09-27T20:48:21&#43;09:30">
-  
-
+  <meta property="article:modified_time" content="2019-09-09T21:02:39&#43;09:30">
   
 
   
 
-  <title>Tilemap Editor | Jack Vine - Game Programming</title>
+  
+
+  <title>Palette Converter | Jack Vine - Game Programming</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#toc" data-offset="71" >
@@ -227,7 +227,7 @@
 
 
   <div class="article-container">
-    <h1 itemprop="name">Tilemap Editor</h1>
+    <h1 itemprop="name">Palette Converter</h1>
 
     
 
@@ -242,11 +242,9 @@
 
   <span class="article-date">
     
-        Last updated on
-    
-    <meta content="2016-09-26 22:57:39 &#43;0930 ACST" itemprop="datePublished">
-    <time datetime="2018-09-27 20:48:21 &#43;0930 ACST" itemprop="dateModified">
-      Sep 27, 2018
+    <meta content="2019-09-09 21:02:39 &#43;0930 ACST" itemprop="datePublished">
+    <time datetime="2019-09-09 21:02:39 &#43;0930 ACST" itemprop="dateModified">
+      Sep 9, 2019
     </time>
   </span>
   <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
@@ -256,7 +254,7 @@
   
   <span class="middot-divider"></span>
   <span class="article-reading-time">
-    1 min read
+    0 min read
   </span>
   
 
@@ -271,35 +269,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Tilemap%20Editor&amp;url=http%3a%2f%2fjackvine.com%2fproject-other%2ftilemap-editor%2f"
+         href="https://twitter.com/intent/tweet?text=Palette%20Converter&amp;url=http%3a%2f%2fjackvine.com%2fproject-other%2fpalette-converter%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=http%3a%2f%2fjackvine.com%2fproject-other%2ftilemap-editor%2f"
+         href="https://www.facebook.com/sharer.php?u=http%3a%2f%2fjackvine.com%2fproject-other%2fpalette-converter%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-facebook-f"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2fjackvine.com%2fproject-other%2ftilemap-editor%2f&amp;title=Tilemap%20Editor"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=http%3a%2f%2fjackvine.com%2fproject-other%2fpalette-converter%2f&amp;title=Palette%20Converter"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=http%3a%2f%2fjackvine.com%2fproject-other%2ftilemap-editor%2f&amp;title=Tilemap%20Editor"
+         href="http://service.weibo.com/share/share.php?url=http%3a%2f%2fjackvine.com%2fproject-other%2fpalette-converter%2f&amp;title=Palette%20Converter"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Tilemap%20Editor&amp;body=http%3a%2f%2fjackvine.com%2fproject-other%2ftilemap-editor%2f">
+         href="mailto:?subject=Palette%20Converter&amp;body=http%3a%2f%2fjackvine.com%2fproject-other%2fpalette-converter%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -313,23 +311,7 @@
 
 
     <div class="article-style" itemprop="articleBody">
-      <p>A basic tile-map editor. Not intended to replace full-featured programs, but rather as useful practice for tools development (a school assignment).</p>
-
-<p><a href="https://github.com/jackv24/AIE-Assessment-5-C-Sharp/releases/" target="_blank">Download Here</a> | <a href="https://github.com/jackv24/AIE-Assessment-5-C-Sharp" target="_blank">Source Code is Available Here</a></p>
-
-<figure>
-
-<img src="/img/tilemap-main.png" />
-
-
-
-<figcaption data-pre="Figure " data-post=":" >
-  <h4>A screenshot of the working application. The tile map featured here is not my own, and was sourced from opengameart.org</h4>
-  
-</figcaption>
-
-</figure>
-
+      
     </div>
 
     
@@ -350,6 +332,12 @@
       <div class="hr-light"></div>
       <h3>Related</h3>
       <ul>
+        
+        <li><a href="/project-other/photoshop-scripts/">Photoshop Scripts</a></li>
+        
+        <li><a href="/project-other/opengl-engine/">Custom OpenGL Graphics Engine in C&#43;&#43;</a></li>
+        
+        <li><a href="/project-other/tilemap-editor/">Tilemap Editor</a></li>
         
         <li><a href="/project-other/watch-face/">Importance - Pebble Watchface</a></li>
         
